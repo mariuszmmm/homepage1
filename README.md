@@ -1,18 +1,12 @@
-# **History and description of interesting places in the Bieszczady Mountains**
+# **History and Description of Interesting Places in the Bieszczady Mountains**
 
+This website provides information about various interesting places in the Bieszczady Mountains. It includes details about the elevation of the terrain above sea level and showcases pictures of picturesque landscapes. For more information, please refer to the links section. One of the key functionalities of this page is the ability to change the background.
 
-The website contains information about interesting places in the Bieszczady Mountains.  
-Gives the height of the terrain above sea level.  
-It presents pictures with picturesque landscapes.  
-Please see the links section for more information.  
-The functionality of this page is to change the background.  
-#
-Check it out:     -->    https://mariuszmmm.github.io/bieszczady/     <--
-#
+Check it out: [Bieszczady](https://mariuszmmm.github.io/bieszczady/)
+
 ![Bieszczady](/images/bieszczady.jpg)
 
-
-## Do you know these places?
+## Do You Know These Places?
 
 - Jezioro Solińskie
 - Lutowiska
@@ -23,21 +17,9 @@ Check it out:     -->    https://mariuszmmm.github.io/bieszczady/     <--
 - Połonina Wetlińska
 - Osadzki Wierch
 
-
-
-
-#
-
 ## Technologies Used
-  
-- Javascript ES6
 
-- HTML 5
-
+- JavaScript ES6
+- HTML5
 - CSS
-
-- BEM convention
-
-
-
-
+- BEM Convention
